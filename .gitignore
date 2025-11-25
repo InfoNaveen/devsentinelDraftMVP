@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+build/
+.vite/
+.env
+.env.local
+.DS_Store
+*.log
+
+# OS
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# large assets (if any)
+*.zip
+*.tar.gz
