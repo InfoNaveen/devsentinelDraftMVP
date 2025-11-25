@@ -237,12 +237,6 @@ Perfect for:
 * Implements scalable workflows
 
 ---
-
-# 📄 **Pitch Deck (PDF)**
-
-Your full presentation deck is available here:
-📎 **DevSentinel-AI.pdf** (automatically embedded)
-
 ---
 
 # 🏁 Final Note to Judges
